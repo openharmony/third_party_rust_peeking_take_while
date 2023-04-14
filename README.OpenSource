@@ -1,0 +1,11 @@
+[
+  {
+    "Name": "peeking_take_while",
+    "License": "Apache License V2.0, MIT",
+    "License File": "LICENSE-APACHE, LICENSE-MIT",
+    "Version Number": "0.1.2",
+    "Owner": "fangting12@huawei.com",
+    "Upstream URL": "https://github.com/fitzgen/peeking_take_while",
+    "Description": "A Rust library that provides support for taking elements from an iterator while peeking at the next element."
+  }
+]
